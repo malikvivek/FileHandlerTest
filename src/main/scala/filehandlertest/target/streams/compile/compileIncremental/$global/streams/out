@@ -1,0 +1,64 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/vivek.malik/Test/src/main/scala/example/Example.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/vivek.malik/Test/src/main/scala/example/Example.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/vivek.malik/Test/src/main/scala/example/Example.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/vivek.malik/Test/src/main/scala/example/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.10.6[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.10.6. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.6  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_6d3071b0[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/classes:/Users/vivek.malik/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/vivek.malik/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.11/xsbti/interface-0.13.11.jar:/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_d324c5db/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.11-sources.jar:/Users/vivek.malik/.sbt/boot/scala-2.10.6/lib/scala-compiler.jar:/Users/vivek.malik/.sbt/boot/scala-2.10.6/lib/jline.jar:/Users/vivek.malik/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar:/Users/vivek.malik/.sbt/boot/scala-2.10.6/lib/jansi.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/w1/byz8q3bj2nn8w67llgqmjzl5h5gvx2/T/sbt_f703371d/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 11.335 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler b6bb2ce, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/classes:/Users/vivek.malik/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/vivek.malik/Test/src/main/scala/example/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/vivek.malik/Test/src/main/scala/example/Example.scala:5: object twitter is not a member of package com[0m
+[0m[[31merror[0m] [0mimport com.twitter.conversions.storage._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/vivek.malik/Test/src/main/scala/example/Example.scala:7: object twitter is not a member of package com[0m
+[0m[[31merror[0m] [0mimport com.twitter.logging._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/vivek.malik/Test/src/main/scala/example/Example.scala:27: not found: value Level[0m
+[0m[[31merror[0m] [0m  val logLevel = Level.INFO[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/Users/vivek.malik/Test/src/main/scala/example/Example.scala:31: not found: value FileHandler[0m
+[0m[[31merror[0m] [0m  val handler = FileHandler([0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mfour errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
