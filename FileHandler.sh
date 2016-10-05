@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 echo "*****STARTING THE FILE HANDLER TEST*****"
+echo ""
+echo "Deleting any previously created log directories"
+rm -rf Logdir/
 
-for i in 1 2 3 4 5
+for i in {1..10}
 do
 	echo ""
 	echo ""
@@ -13,5 +16,5 @@ do
 	echo ""
 	echo ""
 	echo "File details are:"
-	echo Size of log = ; ls -lh LogDir/test.log | cut -c48-52
+	echo Size of log file = ; ls -lh LogDir/test.log | cut -c48-52
 done
