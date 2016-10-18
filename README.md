@@ -13,3 +13,9 @@ The FileHandler type logger does not pick the file size of the log file for roll
     - ```cd path/to/project```
     - ``` chmod 777 FileHandler.sh```
     - ```./FileHandler.sh```
+
+# License
+
+Copyright © Vivek Malik
+
+Distributed under MIT License
